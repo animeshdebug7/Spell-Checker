@@ -1,5 +1,5 @@
 # Spell-Checker
 
-<img src = "files for readme/Screenshot (301)">
+<img src = "files for readme/Screenshot (301).png">
 
-<img src = "files for readme/Screenshot (302)">
+<img src = "files for readme/Screenshot (302).png">
